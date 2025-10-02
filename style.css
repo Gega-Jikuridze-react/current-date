@@ -3,3 +3,18 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+
+
+header{
+    width: 100%;
+    min-height: 100vh;
+    height: 100%;
+    background-color: gold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+    color: black;
+    font-weight: 900;
+}
